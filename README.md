@@ -25,5 +25,4 @@
  * SQL (not experienced)
 
 
-**Hello I'm Giorgos, a developer from Greece, passionate about coding and problem-solving while my expertise is web dev. I am eager to take on new challenges that will expand my skill set, allowing me to create more flexible web apps with better performance.**
-**You can contact me through my email:** giorgosmintis@gmail.com 
+**Hello I'm Giorgos, a developer from Greece, passionate about coding and problem-solving while my expertise is web dev. I am eager to take on new challenges that will expand my skill set, allowing me to create more flexible web apps with better performance.**<br>**You can contact me through my email:** giorgosmintis@gmail.com 
