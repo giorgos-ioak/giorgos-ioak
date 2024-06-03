@@ -1,23 +1,26 @@
 **Full-Stack Web Dev**
 **👨‍💻 2 Years of Experience in creating dynamic and responsive web applications.**
 
-💻 Programming Languages :
+💻 ###Programming Languages :
  * JavaScript , 
  * Typescript (not experienced) ,
  * C++ ,
  * Python
 
-🛠️ Libraries & Platforms :
+
+🛠️ ###Libraries & Platforms :
  * Node.js ,
  * React.js ,
  * Redux Toolkit ,
  * React Router ,
  * Tanstack Query
 
-🚀 Frameworks :
+
+🚀 ###Frameworks :
  * Express.js
 
-🗄️ Databases:
+
+🗄️ ###Databases:
  * No-SQL ,
  * SQL (not experienced)
 
