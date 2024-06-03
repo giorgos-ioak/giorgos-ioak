@@ -2,10 +2,10 @@
 **👨‍💻 2 Years of Experience in creating dynamic and responsive web applications.**
 
 💻 Programming Languages :
- ◦ JavaScript , 
- ◦ Typescript (not experienced) ,
- ◦ C++ ,
- ◦ Python
+ * JavaScript , 
+ * Typescript (not experienced) ,
+ * C++ ,
+ * Python
 
 🛠️ Libraries & Platforms :
  ◦ Node.js ,
