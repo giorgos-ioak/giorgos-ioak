@@ -14,7 +14,6 @@
  * Redux Toolkit ,
  * React Router ,
  * Tanstack Query ,
- * Tailwind CSS
 <br>
 
 🚀 **Frameworks** :
