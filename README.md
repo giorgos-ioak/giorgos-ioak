@@ -1,5 +1,5 @@
 
-**Web Developer with 2 Years of Experience in creating dynamic and responsive web applications.**
+**Full Stack Developer**
 <br>
 
 💻 **Programming Languages** :
